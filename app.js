@@ -260,9 +260,9 @@ ytproAudX.style.left="0px";
 ytproAudX.style.height="40px";
 ytproAudX.style.width="40px";
 ytproAudX.style.background="white";
-ytproAudDivElem.style.borderTop="3px solid red";
+ytproAudDivElem.style.borderTop="3px solid green";
 ytproAudX.style.borderTop="3px solid red";
-ytproAudX.style.borderRight="3px solid red";
+ytproAudX.style.borderRight="3px solid green";
 ytproAudX.style.position="absolute";
 ytproAudX.style.top="-43.25px";
 ytproAudX.style.color="red";
@@ -346,4 +346,5 @@ videos[i].currentTime = videos[i].duration;
 if((new URLSearchParams(window.location.search)).get('auds') == "ab"){
 ytproAudPlayer();
 }
+
 };
