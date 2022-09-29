@@ -1,7 +1,7 @@
 /*****YTPRO*******
-Author: Prateek Chaubey
+Author: vivek masona
 Version: 1.0
-URI: https://github.com/prateek-chaubey/
+URI: https://github.com/Vivekmasona/
 */
 /*Few Stupid Inits*/
 var ytprof1,ytprov1;
